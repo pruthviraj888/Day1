@@ -10,6 +10,7 @@ public class FirstExample
             System.out.println("Pruthviraj");
 
             //sample commit -1
+            //comment -2
 
         }
     }
